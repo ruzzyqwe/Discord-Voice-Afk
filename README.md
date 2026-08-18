@@ -26,9 +26,9 @@ A simple script that automatically connects your Discord account to a specified 
    npm install
 
 ### Step 4: Configure Settings
-Open config.json with any text editor.
-Fill in your details.
-Save and close the file.   
+1. Open config.json with any text editor.
+2. Fill in your details.
+3. Save and close the file.   
 
 ### Step 5: Run
 Save config.json and double-click start.bat.
