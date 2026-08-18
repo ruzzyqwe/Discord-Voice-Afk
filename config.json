@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "name": "Account 1",
+      "token": "YOUR_TOKEN_1",
+      "guildId": "YOUR_GUILD_ID",
+      "voiceChannelId": "YOUR_VOICE_CHANNEL_ID"
+    },
+    {
+      "name": "Account 2",
+      "token": "YOUR_TOKEN_2",
+      "guildId": "YOUR_GUILD_ID",
+      "voiceChannelId": "YOUR_VOICE_CHANNEL_ID"
+    }
+  ]
+}
