@@ -33,4 +33,4 @@ Save and close the file.
 ### Step 5: Run
 Save config.json and double-click start.bat.
 
-Disclaimer: Using automated user tokens violates Discord ToS. Use at your own risk.
+> Disclaimer: Using automated user tokens violates Discord ToS. Use at your own risk.
