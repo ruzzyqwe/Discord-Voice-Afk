@@ -1,10 +1,18 @@
-# Discord Voice AFK
+Discord Voice AFK
+A simple script that automatically connects your Discord account to a specified voice channel to keep you online 24/7.
 
-A simple script that automatically connects your Discord user token to a specified voice channel to maintain a 24/7 active presence.
+Features
+One-Click Start: Launch easily with start.bat.
 
-### Features
-* Fast setup (Token & Channel ID)
-* 24/7 continuous voice connection
-* Auto-reconnect on disconnect
+24/7 Connectivity: Keeps your account in the voice channel continuously.
 
-> **Note:** Self-bots violate Discord ToS. Use at your own risk.
+Auto-Reconnect: Automatically rejoins if the connection drops.
+
+How to Use
+Download: Download and extract the project files.
+
+Configure: Open config.json and fill in your details:
+
+Run: Save config.json and double-click start.bat.
+
+Disclaimer: Using automated user tokens violates Discord ToS. Use at your own risk.
